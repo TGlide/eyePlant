@@ -1,1 +1,4 @@
 # eyePlant
+[![Frontend Vue.js](https://img.shields.io/badge/Frontend-Vue.js-%234FC08D.svg?logo=vue.js&style=for-the-badge)](https://vuejs.org/)
+[![Backend Django](https://img.shields.io/badge/Backend-Django-%23092E20.svg?logo=django&style=for-the-badge)](https://www.djangoproject.com/)
+[![Built with Arduino](https://img.shields.io/badge/Built%20with-Arduino-%2300979D.svg?logo=arduino&style=for-the-badge)](https://www.arduino.cc/)

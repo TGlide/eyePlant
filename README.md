@@ -23,3 +23,7 @@ Monitors:
 # Installation
 ## Backend
 Open the directory eyePlantBackend, and run the following command on your terminal: 
+- Windows:
+`python -m pip install -r requirements.txt`
+- Linux:
+`python3 -m pip install -r requirements.txt`

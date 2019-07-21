@@ -12,6 +12,14 @@ Monitors:
 - Light
 - Water levels
 
+# Installation
+## Backend
+Open the directory eyePlantBackend, and run the following command on your terminal: 
+- Windows:
+`python -m pip install -r requirements.txt`
+- Linux:
+`python3 -m pip install -r requirements.txt`
+
 # TODO:
 - [ ] Humidity monitoring
 - [ ] Light monitoring
@@ -20,10 +28,3 @@ Monitors:
 - [ ] Configurable threshold
 - [ ] Dashboard frontend
 
-# Installation
-## Backend
-Open the directory eyePlantBackend, and run the following command on your terminal: 
-- Windows:
-`python -m pip install -r requirements.txt`
-- Linux:
-`python3 -m pip install -r requirements.txt`

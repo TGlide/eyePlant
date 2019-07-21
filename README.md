@@ -19,3 +19,7 @@ Monitors:
 - [ ] API for integration
 - [ ] Configurable threshold
 - [ ] Dashboard frontend
+
+# Installation
+## Backend
+Open the directory eyePlantBackend, and run the following command on your terminal: 
